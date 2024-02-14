@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #112A46;
 }
 
 #level-title {
@@ -11,8 +11,7 @@ body {
 }
 
 .container {
-  display: block;
-  width: 50%;
+  display: grid;
   margin: auto;
 
 }
