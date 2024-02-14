@@ -67,9 +67,3 @@ $(document).keypress(function () {
   }
 });
 
-$(document).click(function () {
-    if (!gameStarted) {
-      gameStarted = true;
-      nextSequence();
-    }
-  });
