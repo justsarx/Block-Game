@@ -3,6 +3,14 @@ body {
   background-color: #112A46;
 }
 
+.info{
+  font-family: 'Press Start 2P', cursive;
+  font-size: small;
+  margin-top: 80px;
+  text-align: center;
+}
+
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
